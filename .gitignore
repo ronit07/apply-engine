@@ -1,0 +1,15 @@
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/*.egg-info/
+frontend/node_modules/
+frontend/dist/
+data/
+*.pyc
+
+# Local AI-tooling installs (impeccable skill copies)
+frontend/.agents/
+frontend/.claude/
+frontend/.cursor/
