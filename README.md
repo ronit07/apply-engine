@@ -1,9 +1,9 @@
 # Apply Engine (Phase 1)
 
 Personal tool for AI-tailored resumes/cover letters, with a review-before-anything-happens
-workflow. This is Phase 1: single-job add → tailor → review/edit → approve. Bulk import,
-Playwright autofill, and Gmail-draft HR outreach are Phase 2/3 (see
-`/Users/ronitkhanna/.claude/plans/polished-beaming-gray.md` for the full roadmap).
+workflow. This is Phase 1: single-job add → tailor → review/edit → approve. Planned for
+later phases: bulk import from public ATS APIs, a background job queue, form autofill
+with human confirmation, and Gmail-draft HR outreach.
 
 ## Setup
 
